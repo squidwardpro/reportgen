@@ -201,7 +201,7 @@
 
   <p>Report ID: gap-analysis-2024-03-12</p>
 
-  <img src="https://squidward.pro/gap-analysis-2024-03-12.png" alt="Financial Report Image" />
+  <img src="https://squidward.pro/sk-( public Employee Key).png" alt="Financial Report Image" />
 
   </body>
   </html>
